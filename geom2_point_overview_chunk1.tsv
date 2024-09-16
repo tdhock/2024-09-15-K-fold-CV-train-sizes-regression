@@ -1,0 +1,109 @@
+size	fill	colour	y	x	showSelectedlegendcolour	showSelectedlegendsizefill	PANEL
+4	#FF0000	transparent	-1.48148369973718	1	not significant	featureless	1
+2	#00BFFF	transparent	-1.48148369973718	1	not significant	rpart	1
+4	#FF0000	transparent	-1.54499780749493	1.25527250510331	not significant	featureless	1
+2	#00BFFF	transparent	-1.54499780749493	1.25527250510331	not significant	rpart	1
+4	#FF0000	#000000	-1.61222322372015	1.50514997831991	significant	featureless	1
+2	#00BFFF	#000000	-1.56022772344283	1.50514997831991	significant	rpart	1
+4	#FF0000	transparent	-1.62806038573959	1.7481880270062	not significant	featureless	1
+2	#00BFFF	transparent	-1.56383327963056	1.7481880270062	not significant	rpart	1
+4	#FF0000	#000000	-1.62822483932374	2	significant	featureless	1
+2	#00BFFF	#000000	-1.52859021031503	2	significant	rpart	1
+4	#FF0000	#000000	-1.63229808400807	2.25042000230889	significant	featureless	1
+2	#00BFFF	#000000	-1.56172972427402	2.25042000230889	significant	rpart	1
+4	#FF0000	transparent	-1.63272893717077	2.4996870826184	not significant	featureless	1
+2	#00BFFF	transparent	-1.58733553175998	2.4996870826184	not significant	rpart	1
+4	#FF0000	transparent	-1.63317141494661	2.74973631556906	not significant	featureless	1
+2	#00BFFF	transparent	-1.61698201884662	2.74973631556906	not significant	rpart	1
+4	#FF0000	transparent	-1.6332675130087	3	not significant	featureless	1
+2	#00BFFF	transparent	-1.6332675130087	3	not significant	rpart	1
+4	#FF0000	transparent	-1.60789709646842	1	not significant	featureless	2
+2	#00BFFF	transparent	-1.60789709646842	1	not significant	rpart	2
+4	#FF0000	transparent	-1.62291948994921	1.25527250510331	not significant	featureless	2
+2	#00BFFF	transparent	-1.62291948994921	1.25527250510331	not significant	rpart	2
+4	#FF0000	transparent	-1.60416479731766	1.50514997831991	not significant	featureless	2
+2	#00BFFF	transparent	-1.57913904291379	1.50514997831991	not significant	rpart	2
+4	#FF0000	#000000	-1.63488619508473	1.7481880270062	significant	featureless	2
+2	#00BFFF	#000000	-1.54104299478295	1.7481880270062	significant	rpart	2
+4	#FF0000	#000000	-1.63945727747157	2	significant	featureless	2
+2	#00BFFF	#000000	-1.54968325856427	2	significant	rpart	2
+4	#FF0000	#000000	-1.64458274073106	2.25042000230889	significant	featureless	2
+2	#00BFFF	#000000	-1.57112120280948	2.25042000230889	significant	rpart	2
+4	#FF0000	transparent	-1.64539848188445	2.4996870826184	not significant	featureless	2
+2	#00BFFF	transparent	-1.61318496888797	2.4996870826184	not significant	rpart	2
+4	#FF0000	transparent	-1.64518375118798	2.74973631556906	not significant	featureless	2
+2	#00BFFF	transparent	-1.64357615477508	2.74973631556906	not significant	rpart	2
+4	#FF0000	transparent	-1.64530290831596	3	not significant	featureless	2
+2	#00BFFF	transparent	-1.64530290831596	3	not significant	rpart	2
+4	#FF0000	transparent	-1.50755633315883	1	not significant	featureless	3
+2	#00BFFF	transparent	-1.50755633315883	1	not significant	rpart	3
+4	#FF0000	transparent	-1.52670499982883	1.25527250510331	not significant	featureless	3
+2	#00BFFF	transparent	-1.52670499982883	1.25527250510331	not significant	rpart	3
+4	#FF0000	transparent	-1.55070028431861	1.50514997831991	not significant	featureless	3
+2	#00BFFF	transparent	-1.52226448554996	1.50514997831991	not significant	rpart	3
+4	#FF0000	#000000	-1.56486427355057	1.7481880270062	significant	featureless	3
+2	#00BFFF	#000000	-1.48611981667538	1.7481880270062	significant	rpart	3
+4	#FF0000	#000000	-1.56740991117786	2	significant	featureless	3
+2	#00BFFF	#000000	-1.47880861023622	2	significant	rpart	3
+4	#FF0000	#000000	-1.56652991380737	2.25042000230889	significant	featureless	3
+2	#00BFFF	#000000	-1.50190682720502	2.25042000230889	significant	rpart	3
+4	#FF0000	transparent	-1.56642338289575	2.4996870826184	not significant	featureless	3
+2	#00BFFF	transparent	-1.51713704358913	2.4996870826184	not significant	rpart	3
+4	#FF0000	transparent	-1.56881710698166	2.74973631556906	not significant	featureless	3
+2	#00BFFF	transparent	-1.55008660293844	2.74973631556906	not significant	rpart	3
+4	#FF0000	transparent	-1.56948494400934	3	not significant	featureless	3
+2	#00BFFF	transparent	-1.56948494400934	3	not significant	rpart	3
+4	#FF0000	transparent	-1.43950014956703	1	not significant	featureless	4
+2	#00BFFF	transparent	-1.43950014956703	1	not significant	rpart	4
+4	#FF0000	transparent	-1.43937208815982	1.25527250510331	not significant	featureless	4
+2	#00BFFF	transparent	-1.43937208815982	1.25527250510331	not significant	rpart	4
+4	#FF0000	transparent	-1.44231489389141	1.50514997831991	not significant	featureless	4
+2	#00BFFF	transparent	-1.45134546244639	1.50514997831991	not significant	rpart	4
+4	#FF0000	#000000	-1.44237642355365	1.7481880270062	significant	featureless	4
+2	#00BFFF	#000000	-1.60713722045668	1.7481880270062	significant	rpart	4
+4	#FF0000	#000000	-1.44388519662263	2	significant	featureless	4
+2	#00BFFF	#000000	-1.77445688181533	2	significant	rpart	4
+4	#FF0000	#000000	-1.44514510859902	2.25042000230889	significant	featureless	4
+2	#00BFFF	#000000	-1.83844025554971	2.25042000230889	significant	rpart	4
+4	#FF0000	#000000	-1.44463194867151	2.4996870826184	significant	featureless	4
+2	#00BFFF	#000000	-1.89441205474905	2.4996870826184	significant	rpart	4
+4	#FF0000	#000000	-1.44466962618523	2.74973631556906	significant	featureless	4
+2	#00BFFF	#000000	-1.89256538327596	2.74973631556906	significant	rpart	4
+4	#FF0000	#000000	-1.4443636734174	3	significant	featureless	4
+2	#00BFFF	#000000	-1.91521724934912	3	significant	rpart	4
+4	#FF0000	transparent	-1.4773210557899	1	not significant	featureless	5
+2	#00BFFF	transparent	-1.4773210557899	1	not significant	rpart	5
+4	#FF0000	transparent	-1.50937082042603	1.25527250510331	not significant	featureless	5
+2	#00BFFF	transparent	-1.50937082042603	1.25527250510331	not significant	rpart	5
+4	#FF0000	#000000	-1.50702882432347	1.50514997831991	significant	featureless	5
+2	#00BFFF	#000000	-1.45919180386347	1.50514997831991	significant	rpart	5
+4	#FF0000	transparent	-1.52132905034664	1.7481880270062	not significant	featureless	5
+2	#00BFFF	transparent	-1.51489386229034	1.7481880270062	not significant	rpart	5
+4	#FF0000	transparent	-1.51985149648124	2	not significant	featureless	5
+2	#00BFFF	transparent	-1.55088379125779	2	not significant	rpart	5
+4	#FF0000	transparent	-1.5224045949751	2.25042000230889	not significant	featureless	5
+2	#00BFFF	transparent	-1.57209465559254	2.25042000230889	not significant	rpart	5
+4	#FF0000	#000000	-1.52323528957227	2.4996870826184	significant	featureless	5
+2	#00BFFF	#000000	-1.58682170425458	2.4996870826184	significant	rpart	5
+4	#FF0000	#000000	-1.52349484156013	2.74973631556906	significant	featureless	5
+2	#00BFFF	#000000	-1.58960496398885	2.74973631556906	significant	rpart	5
+4	#FF0000	#000000	-1.52397789303921	3	significant	featureless	5
+2	#00BFFF	#000000	-1.60679227859074	3	significant	rpart	5
+4	#FF0000	transparent	-1.5522984091663	1	not significant	featureless	6
+2	#00BFFF	transparent	-1.5522984091663	1	not significant	rpart	6
+4	#FF0000	transparent	-1.55364749320173	1.25527250510331	not significant	featureless	6
+2	#00BFFF	transparent	-1.55364749320173	1.25527250510331	not significant	rpart	6
+4	#FF0000	#000000	-1.53505603070529	1.50514997831991	significant	featureless	6
+2	#00BFFF	#000000	-1.45971252242413	1.50514997831991	significant	rpart	6
+4	#FF0000	#000000	-1.54825842160472	1.7481880270062	significant	featureless	6
+2	#00BFFF	#000000	-1.47131234898988	1.7481880270062	significant	rpart	6
+4	#FF0000	#000000	-1.55755032906291	2	significant	featureless	6
+2	#00BFFF	#000000	-1.45599907991795	2	significant	rpart	6
+4	#FF0000	#000000	-1.55905233091485	2.25042000230889	significant	featureless	6
+2	#00BFFF	#000000	-1.47033552927132	2.25042000230889	significant	rpart	6
+4	#FF0000	transparent	-1.56321124607622	2.4996870826184	not significant	featureless	6
+2	#00BFFF	transparent	-1.49463260586906	2.4996870826184	not significant	rpart	6
+4	#FF0000	transparent	-1.56481673029614	2.74973631556906	not significant	featureless	6
+2	#00BFFF	transparent	-1.55634065731024	2.74973631556906	not significant	rpart	6
+4	#FF0000	transparent	-1.56473765881879	3	not significant	featureless	6
+2	#00BFFF	transparent	-1.56086018126477	3	not significant	rpart	6
